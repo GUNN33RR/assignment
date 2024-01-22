@@ -12,7 +12,6 @@ const { message: breeds } = dataValues;
     </header>
     <div>
       <ul>
-        <!-- Loop through the data to show all dog breeds -->
         <li v-for="breed in breeds" :key="breed.id">
           {{ breed }}
         </li>

@@ -5,7 +5,7 @@
     </div>
     <nav>
       <NuxtLink to="dawgs">Dawgs</NuxtLink>
-      <NuxtLink to="signup">Sign Up Page</NuxtLink>
+
     </nav>
   </header>
 </template>
