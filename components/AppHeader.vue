@@ -1,7 +1,7 @@
 <template>
   <header>
     <div>
-      <NuxtLink to="/">Logo: User Name</NuxtLink>
+      <NuxtLink to="/">Logo</NuxtLink>
     </div>
     <nav>
       <NuxtLink to="dawgs">Dawgs</NuxtLink>
@@ -24,7 +24,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: blue;
+  color: red;
 }
 nav {
   display: flex;
